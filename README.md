@@ -26,6 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/) para adicionar tipos estáticos ao JavaScript.
 - [TailwindCSS](https://tailwindcss.com/) e [HeadlessUI](https://headlessui.dev/) para estilização.
 - [Axios](https://axios-http.com/) para chamadas de API.
+- [RapidAPI](https://rapidapi.com/) para a API de carros.
+- [Car Images API](https://www.imagin.studio/car-image-api) para as imagens dos carros.
 
 ## 💻 Sobre o Projeto
 
