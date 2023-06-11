@@ -2,6 +2,11 @@
 
 Car Hub é uma landing page criada para empresas de aluguel de carros, projetada para mostrar os carros disponíveis para aluguel de maneira eficaz e esteticamente agradável.
 
+## 📌 Links
+Você pode acessar o projeto em produção [aqui](https://cars-showcase-gustavohdab.vercel.app/).
+
+<br>
+
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -43,7 +48,7 @@ Feito com ♥ por Gustavo Batista :wave: [LinkedIn](https://www.linkedin.com/in/
 
 ```bash
 # clonar o repositório
-git clone https://github.com/gustavohdab/carhub.git
+git clone https://github.com/gustavohdab/cars_showcase
 # ir para o repositório e:
 npm install && npm run dev
 ```
